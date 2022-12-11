@@ -5,5 +5,6 @@ class HelloWorld {
         System.out.println("xuexihagitdeshiyong");
         System.out.println("second");
         System.out.println("second");
+        System.out.println("third");
     }
 }

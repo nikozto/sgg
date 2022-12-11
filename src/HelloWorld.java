@@ -10,5 +10,6 @@ class HelloWorld {
         System.out.println("hot-fix");
         System.out.println("master");
         System.out.println("hot-fixsecond");
+        System.out.println("push test");
     }
 }

@@ -11,5 +11,7 @@ class HelloWorld {
         System.out.println("master");
         System.out.println("hot-fixsecond");
         System.out.println("push test");
+        
+        System.out.println("pull test");
     }
 }

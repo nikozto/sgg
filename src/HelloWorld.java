@@ -8,5 +8,6 @@ class HelloWorld {
         System.out.println("third");
 
         System.out.println("hot-fix");
+        System.out.println("master");
     }
 }
